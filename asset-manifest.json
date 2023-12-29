@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skeleton-invisible-checker/static/css/main.cd0c5f45.css",
+    "main.js": "/skeleton-invisible-checker/static/js/main.24d80e0a.js",
+    "static/js/787.6f0453fb.chunk.js": "/skeleton-invisible-checker/static/js/787.6f0453fb.chunk.js",
+    "index.html": "/skeleton-invisible-checker/index.html",
+    "main.cd0c5f45.css.map": "/skeleton-invisible-checker/static/css/main.cd0c5f45.css.map",
+    "main.24d80e0a.js.map": "/skeleton-invisible-checker/static/js/main.24d80e0a.js.map",
+    "787.6f0453fb.chunk.js.map": "/skeleton-invisible-checker/static/js/787.6f0453fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0c5f45.css",
+    "static/js/main.24d80e0a.js"
+  ]
+}
